@@ -22,7 +22,3 @@ def get_teams(id):
     count = data['count']
     teams = data['teams']
     return teams
-
-cs = get_competitions()
-for c in cs:
-    print get_teams(c.get_id())
