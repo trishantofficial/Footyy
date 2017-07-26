@@ -28,3 +28,22 @@ class Competition:
         return self.numberOfGames
     def get_lastUpdated(self):
         return self.lastUpdated
+    def get_data(self):
+        print "ID:"
+        print self.id
+        print "Caption:"
+        print self.caption
+        print "League:"
+        print self.league
+        print "Year:"
+        print self.year
+        print "Current Match Day:"
+        print self.currentMatchday
+        print "Current Match Days:"
+        print self.currentMatchdays
+        print "Number of Teams:"
+        print self.numberOfTeams
+        print "Number of Games:"
+        print self.numberOfGames
+        print "Last Updated:"
+        print self.lastUpdated

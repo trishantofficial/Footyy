@@ -24,3 +24,20 @@ class Player:
         return self.contractUntil
     def get_marketValue(self):
         return self.marketValue
+    def get_data(self):
+        print "ID:"
+        print self.id
+        print "Name:"
+        print self.name
+        print "Position:"
+        print self.position
+        print "Jersey number:"
+        print self.jerseyNumber
+        print "Date of birth:"
+        print self.dateOfBirth
+        print "Nationality:"
+        print self.nationality
+        print "Contract until:"
+        print self.contractUntil
+        print "Market Value:"
+        print self.marketValue

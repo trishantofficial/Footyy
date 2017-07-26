@@ -18,3 +18,16 @@ class Team:
         return self.shortName
     def get_squadMarketValue(self):
         return self.squadMarketValue
+    def get_data(self):
+        print "ID:"
+        print self.id
+        print "Name:"
+        print self.name
+        print "Code:"
+        print self.code
+        print "Short Name:"
+        print self.shortName
+        print "Squad market value:"
+        print self.squadMarketValue
+        print "Crest URL:"
+        print self.crestUrl
