@@ -11,7 +11,7 @@
 
 python ./Footyy/src/Footyy/__init__.py
 
-The program serves the following features:
+#### The program serves the following features:
 
 * Get list of competitions.
 * Get data of a particular competition.
