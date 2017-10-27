@@ -6,14 +6,17 @@
 
 ## For Linux
 #### Required modules are :
-    * requests (Can be installed using python-pip)
-### python ./Footyy/src/Footyy/__init__.py
+
+* requests (Can be installed using python-pip)
+
+python ./Footyy/src/Footyy/__init__.py
 
 The program serves the following features:
-    * Get list of competitions.
-    * Get data of a particular competition.
-    * Get Teams of a particular competition.
-    * Get data of a particular team.
-    * Get players of a particular team.
-    * Get data of a particular player of a team.
-    * Get data of all players of a particular team.
+
+* Get list of competitions.
+* Get data of a particular competition.
+* Get Teams of a particular competition.
+* Get data of a particular team.
+* Get players of a particular team.
+* Get data of a particular player of a team.
+* Get data of all players of a particular team.
