@@ -9,7 +9,7 @@
 
 * requests (Can be installed using python-pip)
 
-python ./Footyy/src/Footyy/__init__.py
+python ./Footyy/src/Footyy/[__init__.py](https://github.com/trishantofficial/Footyy/blob/master/src/Footyy/__init__.py)
 
 #### The program serves the following features:
 
